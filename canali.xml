@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProgrammiTV>
+    <Canale1 IDcanale="1">
+        <nome>Rai 1</nome>
+        <URL>http://www.rai.it/rai1</URL>
+        <descrizione>Primo canale della televisione pubblica italiana.</descrizione>
+        <Programmi>
+            <Programma>
+                <OraInizio>08:00</OraInizio>
+                <OraFine>09:00</OraFine>
+                <NomeProgramma>Colazione da campioni</NomeProgramma>
+                <Img>./img/img1/colazioni_da_campioni.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>09:00</OraInizio>
+                <OraFine>11:00</OraFine>
+                <NomeProgramma>Uno Mattina</NomeProgramma>
+                <Img>./img/img1/1mattina_logo.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>11:00</OraInizio>
+                <OraFine>12:00</OraFine>
+                <NomeProgramma>Storie Italiane</NomeProgramma>
+                <Img>./img/img1/Storie_italiane.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>12:00</OraInizio>
+                <OraFine>14:00</OraFine>
+                <NomeProgramma>É sempre mezzogiorno</NomeProgramma>
+                <Img>./img/img1/è_sempre_mezzogiorno.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>14:00</OraInizio>
+                <OraFine>18:00</OraFine>
+                <NomeProgramma>La volta buona</NomeProgramma>
+                <Img>./img/img1/la_volta_buona.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>18:00</OraInizio>
+                <OraFine>21:00</OraFine>
+                <NomeProgramma>La vita in diretta</NomeProgramma>
+                <Img>./img/img1/la_vita_in_diretta.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>21:00</OraInizio>
+                <OraFine>23:00</OraFine>
+                <NomeProgramma>House of Gucci</NomeProgramma>
+                <Img>./img/img1/house_of_gucci.png</Img>
+            </Programma>
+        </Programmi>
+    </Canale1>
+    <Canale2 IDcanale="2">
+        <nome>Rai 2</nome>
+        <URL>http://www.rai.it/rai2</URL>
+        <descrizione>Secondo canale della televisione pubblica italiana.</descrizione>
+        <Programmi>
+            <Programma>
+                <OraInizio>08:00</OraInizio>
+                <OraFine>09:30</OraFine>
+                <NomeProgramma>Meteo 2</NomeProgramma>
+                <Img>./img/img2/Rai_Meteo.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>09:30</OraInizio>
+                <OraFine>11:00</OraFine>
+                <NomeProgramma>TG sport</NomeProgramma>
+                <Img>./img/img2/tg_sport.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>11:00</OraInizio>
+                <OraFine>14:00</OraFine>
+                <NomeProgramma>Medicina 33</NomeProgramma>
+                <Img>./img/img2/medicina_33.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>14:00</OraInizio>
+                <OraFine>16:30</OraFine>
+                <NomeProgramma>TG Parlamento</NomeProgramma>
+                <Img>./img/img2/tg_parlamento.jpeg</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>16:30</OraInizio>
+                <OraFine>21:00</OraFine>
+                <NomeProgramma>Nazionale Calcio</NomeProgramma>
+                <Img>./img/img2/nazionale_calcio.jpeg</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>21:00</OraInizio>
+                <OraFine>23:00</OraFine>
+                <NomeProgramma>Stasera c'è Cattelan</NomeProgramma>
+                <Img>./img/img2/cattelan.avif</Img>
+            </Programma>
+        </Programmi>
+    </Canale2>
+    <Canale3 IDcanale="3">
+        <nome>Rai 3</nome>
+        <URL>https://www.raiplay.it/dirette/rai3</URL>
+        <descrizione>Terzo canale della televisione pubblica italiana.</descrizione>
+        <Programmi>
+            <Programma>
+                <OraInizio>08:00</OraInizio>
+                <OraFine>09:30</OraFine>
+                <NomeProgramma>TGR</NomeProgramma>
+                <Img>./img/img3/tgr.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>09:30</OraInizio>
+                <OraFine>11:00</OraFine>
+                <NomeProgramma>Meteo 3</NomeProgramma>
+                <Img>./img/img3/meteo3.jpeg</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>11:00</OraInizio>
+                <OraFine>13:00</OraFine>
+                <NomeProgramma>TG3</NomeProgramma>
+                <Img>./img/img3/tgr.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>13:00</OraInizio>
+                <OraFine>15:00</OraFine>
+                <NomeProgramma>Passato e Presente</NomeProgramma>
+                <Img>./img/img3/passato_presente.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>15:00</OraInizio>
+                <OraFine>18:00</OraFine>
+                <NomeProgramma>Geo</NomeProgramma>
+                <Img>./img/img3/geo.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>18:00</OraInizio>
+                <OraFine>20:00</OraFine>
+                <NomeProgramma>TG Regione</NomeProgramma>
+                <Img>./img/img3/tgr.png</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>20:00</OraInizio>
+                <OraFine>23:00</OraFine>
+                <NomeProgramma>Chi l'ha visto?</NomeProgramma>
+                <Img>./img/img3/1.avif</Img>
+            </Programma>
+        </Programmi>
+    </Canale3>
+    <Canale4 IDcanale="4">
+        <nome>TG 4</nome>
+        <URL>https://mediasetinfinity.mediaset.it/programmi-tv/tg4_SE000000000060</URL>
+        <descrizione>Quarto canale della televisione italiana.</descrizione>
+        <Programmi>
+            <Programma>
+                <OraInizio>08:00</OraInizio>
+                <OraFine>09:30</OraFine>
+                <NomeProgramma>Last Cop</NomeProgramma>
+                <Img>./img/img4/last_cop.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>09:30</OraInizio>
+                <OraFine>11:00</OraFine>
+                <NomeProgramma>Squadra Speciale Cobra</NomeProgramma>
+                <Img>./img/img4/squadra.jpeg</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>11:00</OraInizio>
+                <OraFine>13:00</OraFine>
+                <NomeProgramma>Squadra Speciale Cobra</NomeProgramma>
+                <Img>./img/img4/squadra.jpeg</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>13:00</OraInizio>
+                <OraFine>15:30</OraFine>
+                <NomeProgramma>Criminal Minds</NomeProgramma>
+                <Img>./img/img4/criminal-minds.jpeg</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>15:30</OraInizio>
+                <OraFine>18:00</OraFine>
+                <NomeProgramma>Last Cop</NomeProgramma>
+                <Img>./img/img4/last_cop.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>18:00</OraInizio>
+                <OraFine>20:00</OraFine>
+                <NomeProgramma>Last Cop</NomeProgramma>
+                <Img>./img/img4/last_cop.avif</Img>
+            </Programma>
+            <Programma>
+                <OraInizio>20:00</OraInizio>
+                <OraFine>23:00</OraFine>
+                <NomeProgramma>Elementary</NomeProgramma>
+                <Img>./img/img4/elementary.jpg</Img>
+            </Programma>
+        </Programmi>
+    </Canale4>
+</ProgrammiTV>
