@@ -13,7 +13,7 @@ function loadXMLDoc() {
 
 function parseXML(xml) {
     var xmlDoc = xml.responseXML;
-    var table = "<table><thead><tr><th>Canale</th><th>Ora Inizio</th><th>Ora Fine</th><th>Nome Programma</th><th>Immagini</th></tr></thead>";
+    var table = "<table><thead><tr><th>Canale</th><th>Ora Inizio</th><th>Ora Fine</th><th>Nome Programma</th><th>Preview</th></tr></thead>";
 
     var imgCounter = 0;
 
