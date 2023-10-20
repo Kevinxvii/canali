@@ -15,7 +15,7 @@ function loadXMLDoc() {
 // Funzione per analizzare il file XML e generare la tabella per il Canale 2
 function parseXML(xml) {
     var xmlDoc = xml.responseXML;
-    var table = "<thead><tr><th>Ora Inizio</th><th>Ora Fine</th><th>Nome Programma</th><th>Immagini</th></tr></thead>";
+    var table = "<thead><tr><th>Ora Inizio</th><th>Ora Fine</th><th>Nome Programma</th><th>Preview</th></tr></thead>";
 
     var canale2 = xmlDoc.getElementsByTagName("Canale3")[0];
     var programmi = canale2.getElementsByTagName("Programma");
