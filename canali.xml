@@ -39,7 +39,7 @@
                 <OraInizio>18:00</OraInizio>
                 <OraFine>21:00</OraFine>
                 <NomeProgramma>La vita in diretta</NomeProgramma>
-                <Img>./img/img1/La_vita_in_diretta.avif</Img>
+            <Img>./img/img1/La_vita_in_diretta.avif</Img>
             </Programma>
             <Programma>
                 <OraInizio>21:00</OraInizio>
